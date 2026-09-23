@@ -10,7 +10,7 @@ permissions:
   packages: write
 
 env:
-  HELM_VERSION: v4
+  HELM_VERSION: 4.1.0
   HELM_IMAGE: ghcr.io/appuio/helm-v4
 
 jobs:
