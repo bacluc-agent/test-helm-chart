@@ -1,0 +1,6 @@
+apiVersion: v2
+name: test-helm-chart
+description: Dumps all helm values into a ConfigMap named after the release
+type: application
+version: 0.0.1
+appVersion: "0.0.1"
